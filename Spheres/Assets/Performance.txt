@@ -1,0 +1,10 @@
+OOP:
+Initialization: 758 ms
+Frame time: 45-70 ms
+Rendering 25-35 % cpu usage
+Object modification: 50-55 % cpu usage
+Total memory usage: 0.96 GB
+Most expensive operation: Color linear interpolation at every frame.
+
+ECS:
+Doesn't start.
